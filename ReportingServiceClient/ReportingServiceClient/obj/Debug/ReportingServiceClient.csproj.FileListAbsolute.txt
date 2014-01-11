@@ -1,0 +1,1 @@
+C:\Users\Sanket\Documents\GitHub\SampleCode\ReportingServiceClient\ReportingServiceClient\bin\Debug\ReportingServiceClient.exe.config
